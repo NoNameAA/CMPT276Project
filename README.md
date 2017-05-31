@@ -6,7 +6,7 @@ Zhijian Li (team leader?)
 
 Chuxuan Zhang
 
-Emiliey Yu
+Emilie Yu
 
 Site Li
 
