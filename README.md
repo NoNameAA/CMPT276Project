@@ -1,4 +1,4 @@
-# CMPT276Project
+# SFU Book Club
 
 Team member:
 
