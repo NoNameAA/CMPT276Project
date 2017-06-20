@@ -1,29 +1,3 @@
-<<<<<<< HEAD
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-=======
 # SFU Book Club
 
 Team member:
@@ -49,6 +23,3 @@ As a regular (student) user on this platform, they will be able to search for th
  
 # Admin User
 The admin of this application would be in charge of web maintenance. Their main job would be to update the server when needed, for example, when a course is no longer offered or when a new course is offered. They would also have the ability to freeze and prevent student user accounts from commenting or making posts if they find out that what the user is doing is inappropriate. This could be any unreasonable actions made whether it be from selling, buying, or comments made in posts.
-
-
->>>>>>> origin/master
