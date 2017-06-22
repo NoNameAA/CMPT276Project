@@ -1,5 +1,7 @@
 # SFU Book Club
 
+App link: https://mysterious-beyond-23272.herokuapp.com
+
 Team member:
 
 Zhijian Li (team leader?)
