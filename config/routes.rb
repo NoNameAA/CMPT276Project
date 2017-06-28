@@ -7,6 +7,15 @@ Rails.application.routes.draw do
   get 'sell/sell_page'
 
   get 'about/about_page'
+  
+  get 'users/new'
+  
+  get 'users/index'
+  
+  get 'users/edit'
+  
+  get 'users/show'
+
 
   resources :users
     root 'login#login_page'
