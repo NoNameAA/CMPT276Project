@@ -5,6 +5,8 @@ Rails.application.routes.draw do
   get 'buy/buy_page'
 
   get 'sell/sell_page'
+
+  get 'about/about_page'
   
   get 'users/new'
   
