@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html >
+<head>
+  <meta charset="UTF-8">
+  <title>Sign Up</title>
+    <%= stylesheet_link_tag "signup.scss" %>
+    <div class="flex">
+        <h1>Sign Up Here!</h1>
+      </flex>
+    </div>
+</head>
+
+<body>
+  <div class="registeration">
+  <div class="register-form">
+        <input type="text" placeholder="username"/>
+        <input type="password" placeholder="password"/>
+        <input type="text" placeholder="email address"/>
+        <button>create</button>
+        <p class="message">Already Registered? <%= link_to 'Login in Here', "../" %></p>
+      </div>
+    </register-form>
+  </registeration>
+
+</body>
+</html>

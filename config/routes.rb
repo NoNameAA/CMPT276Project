@@ -1,5 +1,7 @@
 Rails.application.routes.draw do
 
+  get 'signup/signup_page'
+
   get 'home/home_page'
 
   get 'buy/buy_page'
