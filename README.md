@@ -1,6 +1,6 @@
 # SFU Book Club
 
-App link: https://mysterious-beyond-23272.herokuapp.com
+App link: https://ancient-plains-48576.herokuapp.com/
 
 Team member:
 
