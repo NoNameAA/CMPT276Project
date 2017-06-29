@@ -16,7 +16,7 @@
   <div class="form">
       <input type="text" placeholder="username"/>
       <input type="password" placeholder="password"/>
-      <button><%= link_to 'Login', "/home/home_page" , class:"login_css" %></button>
+      <button><%= link_to 'Login', "/home/home_page" ,:style=>"color: white;", class:"login_css"%></button>
       <p class="message">Not registered? <%= link_to 'Sign up Here', "/signup/signup_page" %> </p>
     </form>
   </div>
