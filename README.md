@@ -25,9 +25,3 @@ As a regular (student) user on this platform, they will be able to search for th
  
 # Admin User
 The admin of this application would be in charge of web maintenance. Their main job would be to update the server when needed, for example, when a course is no longer offered or when a new course is offered. They would also have the ability to freeze and prevent student user accounts from commenting or making posts if they find out that what the user is doing is inappropriate. This could be any unreasonable actions made whether it be from selling, buying, or comments made in posts.
-
-
-Tommy commit
-Emilie Commit
-Archer
-shelly commit
