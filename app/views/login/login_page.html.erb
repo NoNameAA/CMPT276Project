@@ -17,10 +17,11 @@
       <input type="text" placeholder="username"/>
       <input type="password" placeholder="password"/>
       <button style="background-color: #4CAF50"><%= link_to 'Login', "/home/home_page" ,:style=>"color: white;", class:"login_css"%></button>
-      <p class="message">Not registered? <%= link_to 'Sign up Here', "/users/new" %> </p>
+      <p class="message">Not registered? <%= link_to 'Sign up Here', users_path %> </p>
     </form>
   </div>
 </div>
 
 </body>
 </html>
+
