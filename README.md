@@ -21,7 +21,9 @@ The main purpose of our web application project is to create a platform for SFU 
 In this project, we will attempt to create and enhance the platform to buy and sell textbooks for students specifically directed towards SFU. Using SFU Library API, we can connect each user with their SFU account as login credentials and organize the posts based on course number, price, textbook edition number, condition of textbooks, name or author of textbooks. With students being the target audience, they will be able to register with their SFU email accounts directly and communicate with each other. This will allow management between one another to be easier and encourage students to interact with one another. In addition, students would be able to comment on the book, and the seller,  such as the condition, and the process of each purchase (did the seller back out and change their mind last second?).
  
 # Student User
-As a regular (student) user on this platform, they will be able to search for the courses’ name to find the book that they want to buy,or make posts on textbooks they finished using and want to sell. They will also be able to comment after each ‘transaction’ on the seller of the textbook to give feedback and rating for their peers also searching, such as whether this person is recommended or should be avoided.
+
+The student users can search for a book by courses' name, or make posts on a book which is finished using or will be sold. The users can comment by giving feedback and rating for peer after each 'transaction' to show a attitude.
+
  
 # Admin User
 The admin of this application would be in charge of web maintenance. Their main job would be to update the server when needed, for example, when a course is no longer offered or when a new course is offered. They would also have the ability to freeze and prevent student user accounts from commenting or making posts if they find out that what the user is doing is inappropriate. This could be any unreasonable actions made whether it be from selling, buying, or comments made in posts.
