@@ -15,7 +15,7 @@ Site Li
 Zefeng Zhi
 
 # Overview
-The main purpose of our web application project is to create a platform for SFU students to buy and sell textbooks or other resources with their peers. 
+Our web application project creates a platform for SFU students to buy and sell textbooks or other resources from or to their peers.
 
 Currently, existing platforms for SFU students to purchase used textbooks is either through social media such as Facebook, books2go.com, or directly at the school's bookstore. The SFU bookstore sells mostly brand new books, with limited selection of choices available for second hand. Moreover, used book in bookstore often more expensive than online platform. 
 
