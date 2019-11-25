@@ -17,9 +17,9 @@ Zefeng Zhi
 # Overview
 The main purpose of our web application project is to create a platform for SFU students to buy and sell textbooks or other resources with their peers. 
 
-Currently, existing platforms for SFU students to purchase used textbooks is either through social media such as Facebook, books2go.com, or directly at the school's bookstore. The SFU bookstore sells mostly brand new books, with limited selection of choices available for second hand. Moreover, used book in bookstore often more expensive than online platform. 
+Currently, existing platforms for SFU students to purchase used textbooks are either through social media such as Facebook, books2go.com or directly at the school's bookstore. The SFU bookstore sells mostly brand new books, with a limited selection of choices available for second hand. The price of used books in bookstore are often higher than online platform. 
 
-Altough, Facebook is not a platform design specifically for buying and selling books in particular; in fact, the method used right now is through posts made in different groups, or private messaging which is very unsecure. Books2go allows the purchasing of textbooks among all students across Canada, but is not widely known, and is also lacking in some aspects, for example, the ability to make reviews or comment about seller.
+Although, Facebook is not a platform design specifically for buying and selling books in particular; in fact, the method used right now is through posts made in different groups, or private messaging which leads to a safety problem. Books2go provides Canda students a platform to purchase textbooks. However, rarely known by people and missing the components of making reviews are issues need to be improved.
 
 In this project, we will attempt to create and enhance the platform to buy and sell textbooks for students specifically directed towards SFU. 
  
